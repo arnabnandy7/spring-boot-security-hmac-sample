@@ -1,3 +1,5 @@
 # Spring Boot Security HMAC Sample
 
-<!-- GitAds-Verify: YCS84ZSHYJ3VQFW171CJGK6TUI2KY1ZL -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/spring-boot-security-hmac-sample@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/spring-boot-security-hmac-sample@github)
+
